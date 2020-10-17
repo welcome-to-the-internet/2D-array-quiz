@@ -1,5 +1,5 @@
 //2D array with question + answer
-var quiz = [["Does a cat meow or bark?", "meow"], ["Does a dog meow or bark?", "bark"], ["Does a duck meow or bark?", "neither"]];
+var quiz = [["cat or dog", ""], ["dragon or fairy?", ""], ["XaaS?", "fill in the blank (paragraph)"]];
 //default function
 function print(message) {
   document.write(message);
